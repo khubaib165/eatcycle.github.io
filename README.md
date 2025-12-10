@@ -47,7 +47,7 @@ This README was auto-filled using the source files included in the project. The 
 
 ## Quick Demo / Screenshots
 
-(When adding to GitHub, add a `/screenshots` folder and include screenshots of the following pages)
+(You CAN USE YOUR OWN IMAGES!)
 - Login / Signup
 - Home (role selection)
 - Donor Dashboard (Add Donation modal, listing cards)
