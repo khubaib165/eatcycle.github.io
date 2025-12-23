@@ -339,7 +339,7 @@ Please include:
 
 ## License
 
-This project is provided under the MIT License. Add a `LICENSE` file if not already present.
+This project is provided under the MIT License.
 
 ---
 
